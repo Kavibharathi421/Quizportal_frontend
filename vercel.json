@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://quizportal-c2dz.onrender.com/api/:path*"
+    }
+  ]
+}
